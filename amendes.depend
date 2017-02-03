@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1477319160 source:c:\users\utilisateur\desktop\exia\projets codeblocks\amendes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"headers.h"
+
+1477069755 c:\users\utilisateur\desktop\exia\projets codeblocks\amendes\headers.h
+
